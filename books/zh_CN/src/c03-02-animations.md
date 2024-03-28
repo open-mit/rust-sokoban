@@ -171,4 +171,4 @@ For example, to get our player blinking we'll have three animation frames:
 
 ![Sokoban animations](./images/animations.gif)
 
-> **_CODELINK:_**  点 [这里](https://github.com/iolivia/rust-sokoban/tree/master/code/rust-sokoban-c03-02)获取完整实例代码.
+> **_CODELINK:_**  点 [这里](https://github.com/open-mit/rust-sokoban/tree/master/code/rust-sokoban-c03-02)获取完整实例代码.

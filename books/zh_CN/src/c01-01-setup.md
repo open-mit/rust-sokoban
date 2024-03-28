@@ -147,4 +147,4 @@ impl X {
 
 对代码和Rust语法的简单介绍就先到这里，让我们继续前进吧，下一节见!
 
-> **_CODELINK:_**  要获取本节的完整代码可以点 [这里](https://github.com/iolivia/rust-sokoban/tree/master/code/rust-sokoban-c01-01).
+> **_CODELINK:_**  要获取本节的完整代码可以点 [这里](https://github.com/open-mit/rust-sokoban/tree/master/code/rust-sokoban-c01-01).

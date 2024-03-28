@@ -43,4 +43,4 @@ N is nothing: used for the outer edges of the map
 {{#include ../../../code/rust-sokoban-c02-01/src/main.rs}}
 ```
 
-> **_CODELINK:_**  可以从[这里](https://github.com/iolivia/rust-sokoban/tree/master/code/rust-sokoban-c02-01)获取当前实例的完整代码.
+> **_CODELINK:_**  可以从[这里](https://github.com/open-mit/rust-sokoban/tree/master/code/rust-sokoban-c02-01)获取当前实例的完整代码.

@@ -160,4 +160,4 @@
     <source src="./videos/audio.mov" type="video/mp4">
 </video>
 
-> **_CODELINK:_**  点 [这里](https://github.com/iolivia/rust-sokoban/tree/master/code/rust-sokoban-c03-03)获取示例完整代码.
+> **_CODELINK:_**  点 [这里](https://github.com/open-mit/rust-sokoban/tree/master/code/rust-sokoban-c03-03)获取示例完整代码.

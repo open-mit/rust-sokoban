@@ -67,5 +67,5 @@
 {{#include ../../../code/rust-sokoban-c01-04/src/main.rs}}
 ```
 
-> **_CODELINK:_**  可以点 [这里](https://github.com/iolivia/rust-sokoban/tree/master/code/rust-sokoban-c01-04)获取本章节完整代码.
+> **_CODELINK:_**  可以点 [这里](https://github.com/open-mit/rust-sokoban/tree/master/code/rust-sokoban-c01-04)获取本章节完整代码.
 

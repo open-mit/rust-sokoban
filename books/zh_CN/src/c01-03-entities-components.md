@@ -65,4 +65,4 @@
 
 然后你就可以执行`cargo run`运行看下效果，当你满怀期待却发现看到的依然是一个空白的窗口，控制台里可能还多了些警告信息。这是因为我们还没有编写渲染的代码也就是还没有绘制这些实体。少侠，莫急！下一节，我们就开始绘制。到时这些因为引入而没有使用的警告也就自然消失了。
 
-> **_CODELINK:_**  你可以在 [这里](https://github.com/iolivia/rust-sokoban/tree/master/code/rust-sokoban-c01-03)找到本小节完整的代码.
+> **_CODELINK:_**  你可以在 [这里](https://github.com/open-mit/rust-sokoban/tree/master/code/rust-sokoban-c01-03)找到本小节完整的代码.

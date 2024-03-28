@@ -1,11 +1,10 @@
-[![Code-samples-compile](https://github.com/iolivia/rust-sokoban/workflows/Code-samples-compile/badge.svg)](https://github.com/iolivia/rust-sokoban/actions?query=workflow%3ACode-samples-compile)
+[![Code-samples-compile](https://github.com/open-mit/rust-sokoban/workflows/Code-samples-compile/badge.svg)](https://github.com/open-mit/rust-sokoban/actions?query=workflow%3ACode-samples-compile)
+
+## [原文在这里](https://github.com/robwil/rust-sokoban)
+
+这里只是提供自己学习
 
 [English](README.md)
-
-# [Rust编写推箱子游戏教程 ](https://sokoban.iolivia.me)
-
-## :dart: 这是什么?
-这里是使用[mdbook](https://github.com/rust-lang/mdBook)创建的《Rust编写推箱子游戏》教程和相关代码。想在线阅读下？ 好嘞，给您安排，点这里[sokoban.iolivia.me](https://sokoban.iolivia.me)。
 
 <img src="src/images/readme.gif" width="80%">
 
@@ -23,7 +22,7 @@ $ cargo install mdbook
 安装成功后就可以把项目clone到本机并启动`mdbook serve`：
 
 ```bash
-$ git clone  git@github.com:iolivia/rust-sokoban.git  
+$ git clone  git@github.com:song.tang/rust-sokoban.git  
 $ cd rust-cokoban
 $ mdbook serve
 ```

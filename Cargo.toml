@@ -1,0 +1,19 @@
+[package]
+name = "rust-sokoban"
+version = "0.1.0"
+description = "sokoban game base rust"
+authors = ["song.tang <song.tang0202@gmail.com>"]
+license="MIT"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+exclude = [
+    "books/zh_CN/src/images"
+]
+
+[dependencies]
+ggez = "0.7"
+glam = { version = "0.20.0", features = ["mint"] }
+specs = { version = "0.17.0", features = ["specs-derive"] }
+itertools = "0.9.0"

@@ -96,4 +96,4 @@ Key pressed: Left
 
 注意到没？现在角色可以穿过墙和盒子．没关系，我们下一节就修复这个问题．
 
-> **_CODELINK:_**  可以点[这里](https://github.com/iolivia/rust-sokoban/tree/master/code/rust-sokoban-c02-02)获取当前完整代码.
+> **_CODELINK:_**  可以点[这里](https://github.com/open-mit/rust-sokoban/tree/master/code/rust-sokoban-c02-02)获取当前完整代码.

@@ -1,9 +1,12 @@
-[![Code-samples-compile](https://github.com/iolivia/rust-sokoban/workflows/Code-samples-compile/badge.svg)](https://github.com/iolivia/rust-sokoban/actions?query=workflow%3ACode-samples-compile)
+[![Code-samples-compile](https://github.com/open-mit/rust-sokoban/workflows/Code-samples-compile/badge.svg)](https://github.com/open-mit/rust-sokoban/actions?query=workflow%3ACode-samples-compile)
 [简体中文](README-zh_CN.md)
-# [Rust sokoban](https://sokoban.iolivia.me)
+
+## [原文在这里](https://github.com/robwil/rust-sokoban)
+
+这里只是提供自己学习
 
 ## :dart: What is it?
-This repository hosts the Rust Sokoban book and source code used in the book. It's using [mdbook](https://github.com/rust-lang/mdBook). You can read the book at [sokoban.iolivia.me](https://sokoban.iolivia.me). 
+This repository hosts the Rust Sokoban book and source code used in the book. It's using [mdbook](https://github.com/rust-lang/mdBook). 
 
 <img src="src/images/readme.gif" width="80%">
 
@@ -48,7 +51,5 @@ Have a look in the issues list of any duplicates, if you can't find anything cre
 1. Translate SUMMARY.md first
 1. Translate each chapter/sub-chapter, try to not modify any images/sounds/videos or any of the book structure
 1. Feel free to create a draft pull request as soon as you have a few pages translated, this will make other contributors aware of the work
-1. When this is ready, notify the repo owner, a CI change is required to publish the book to a new subdomain (sokoban.iolivia.me/fr_fr in this example)
-
 ## :car: License
 MIT

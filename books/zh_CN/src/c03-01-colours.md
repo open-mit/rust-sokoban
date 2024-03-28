@@ -127,4 +127,4 @@ pub trait PartialEq {
 
 ![Sokoban play](./images/colours.gif)
 
-> **_CODELINK:_**  可以点 [这里](https://github.com/iolivia/rust-sokoban/tree/master/code/rust-sokoban-c03-01)获取当前完整代码.
+> **_CODELINK:_**  可以点 [这里](https://github.com/open-mit/rust-sokoban/tree/master/code/rust-sokoban-c03-01)获取当前完整代码.

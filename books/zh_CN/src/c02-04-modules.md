@@ -82,5 +82,5 @@
 
 至此拆分模块的任务就完成了，运行下代码应该跟先前的功能是一样的，但代码没那么臃肿了也方便后续添加新功能了．
 
-> **_CODELINK:_**  点 [这里](https://github.com/iolivia/rust-sokoban/tree/master/code/rust-sokoban-c02-04)获取当前完整代码.
+> **_CODELINK:_**  点 [这里](https://github.com/open-mit/rust-sokoban/tree/master/code/rust-sokoban-c02-04)获取当前完整代码.
 
